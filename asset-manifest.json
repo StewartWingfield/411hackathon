@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/411hackathon/static/css/main.fcabe436.css",
+    "main.js": "/411hackathon/static/js/main.2b3104dc.js",
+    "static/js/787.69e24594.chunk.js": "/411hackathon/static/js/787.69e24594.chunk.js",
+    "index.html": "/411hackathon/index.html",
+    "main.fcabe436.css.map": "/411hackathon/static/css/main.fcabe436.css.map",
+    "main.2b3104dc.js.map": "/411hackathon/static/js/main.2b3104dc.js.map",
+    "787.69e24594.chunk.js.map": "/411hackathon/static/js/787.69e24594.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcabe436.css",
+    "static/js/main.2b3104dc.js"
+  ]
+}
