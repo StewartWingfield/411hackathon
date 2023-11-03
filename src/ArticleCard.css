@@ -1,0 +1,40 @@
+#cards {
+  margin: 4px 0;
+  font-size: 14px;
+  padding: 0 16px;
+  min-height: 40px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+#articleTitleStyle {
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+#articleURL {
+  color: #828282;
+  font-size: 13px;
+  word-break: break-all;
+  text-decoration: none;
+}
+
+#pointsStyle {
+  font-size: 10.667;
+  color: #696969;
+}
+
+#authorStyle {
+  font-size: 10.667;
+  color: #696969;
+}
+
+#dateStyle {
+  font-size: 10.667;
+  color: #696969;
+}
+
+#commentsStyle {
+  font-size: 10.667;
+  color: #696969;
+}

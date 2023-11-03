@@ -1,16 +1,19 @@
 import React from "react";
+import "./ArticleCard.css";
 
 function ArticleCard(props) {
   const { article } = props;
 
   return (
-    <div>
-      <h2>{article.title}</h2>
-      <a href={article.url}>{article.url} </a>
-      <p>{article.points}</p>
-      <p>{article.author}</p>
-      <p>{article.created_at}</p>
-      <p>{article.num_comments}</p>
+    <div id="cards">
+      <h2 id="articleTitleStyle">{article.title}</h2>
+      <a id="articleURL" href={article.url}>
+        {article.url}
+      </a>
+      <p id="pointsStyle">{article.points}</p>
+      <p id="authorStyle">{article.author}</p>
+      <p id="dateStyle">{article.created_at}</p>
+      <p id="commentsStyle">{article.num_comments}</p>
     </div>
   );
 }
